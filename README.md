@@ -6,7 +6,7 @@ Plain HTML, CSS and vanilla JavaScript. No build step, no npm.
 - `project.html`: case-study page, one per project, opened as `project.html?id=<file name without extension>`
 - `research.html`: five-step research and strategy page
 - `content/designs.json`: one entry per design
-- `content/steps.json`: the research text for each step, plus the closing section
+- `content/steps.json`: the research text for each step
 - `assets/designs/`: images and videos; `assets/designs/posters/`: video poster frames
 
 ## Add a design

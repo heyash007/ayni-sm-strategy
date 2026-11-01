@@ -766,6 +766,18 @@
           var m = makeMedia(d);
           fig.appendChild(m);
           media.appendChild(fig);
+          if (d.type !== 'video') {
+            // click to see the image large in the full-screen viewer
+            fig.classList.add('playable');
+            fig.tabIndex = 0;
+            fig.setAttribute('role', 'button');
+            fig.setAttribute('aria-label', 'View full screen: ' + (d.alt || d.title));
+            m.alt = '';
+            fig.addEventListener('click', function () { openViewer(d, fig); });
+            fig.addEventListener('keydown', function (e) {
+              if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openViewer(d, fig); }
+            });
+          }
           if (d.type === 'video') {
             videos.push(m);
             // click to watch the full video in the full-screen player

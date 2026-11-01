@@ -280,7 +280,7 @@
         vw = root.clientWidth;
         vh = root.clientHeight;
         // about 350 x 430 at 1280 x 800; a larger share of the screen on phones
-        cw = vw < 700 ? vw * 0.6 : clamp(vw * 0.2734, 260, 440);
+        cw = vw < 700 ? vw * 0.6 : clamp(vw * 0.2734, 260, 640);
         cw = Math.min(cw, (vh * 0.6) / 1.2286);
         ch = cw * 1.2286;
         rx = vw < 700 ? 0.9 : 1.35;

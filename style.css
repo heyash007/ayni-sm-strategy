@@ -314,3 +314,13 @@ body[data-page="gallery"] { overflow: hidden; height: 100vh; height: 100dvh; }
 .mix-seg.seg-2 { background: var(--f2); }
 .mix-seg.seg-3 { background: var(--f3); }
 @media (max-width: 520px) { .funnel-mix-rows li { grid-template-columns: 1fr; gap: 4px; } .mix-seg { padding: 8px 6px; font-size: 11px; } }
+
+/* Large desktop screens */
+@media (min-width: 900px) {
+  /* pills never sit directly on top of content as the page scrolls */
+  body:not([data-page="gallery"]) .site-header { background: linear-gradient(#fff 65%, rgba(255,255,255,0)); padding-bottom: 28px; }
+}
+@media (min-width: 1700px) {
+  .steps, .case { max-width: 1600px; margin-left: auto; margin-right: auto; }
+  .designs { max-width: 1480px; }
+}

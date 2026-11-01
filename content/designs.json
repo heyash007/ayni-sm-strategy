@@ -1,0 +1,142 @@
+[
+  {
+    "file": "chanchal-mann.jpg",
+    "type": "image",
+    "title": "Chanchal Mann",
+    "alt": "Bold Devanagari lettering in pale pink on a bright blue background, with a yellow flower mark at the top right.",
+    "caption": "Typographic Hindi poster that speaks to the audience in their own language.",
+    "step": 1
+  },
+  {
+    "file": "ayni-woman.jpg",
+    "type": "image",
+    "title": "Made to feel good",
+    "alt": "A woman laughing with her eyes closed and both hands on her headphones, wearing a bright blue cropped jacket and black period underwear against a pale pink background.",
+    "caption": "Joyful lifestyle image that carries the Made to feel good idea.",
+    "step": 1
+  },
+  {
+    "file": "ayni-gym-woman.jpg",
+    "type": "image",
+    "title": "Product portrait",
+    "alt": "A smiling woman in a cream sports bra flexes her arm and balances a blue Ayni reusable period underwear box on her shoulder against a soft pink panelled wall.",
+    "caption": "Product-led portrait that shows the pack and a confident, active tone.",
+    "step": 1
+  },
+  {
+    "file": "hormonal-hasina.jpg",
+    "type": "image",
+    "title": "Hormonal Hasina",
+    "alt": "Poster with the title Hormonal Hasina in cream retro lettering on a bright blue background above a photo of a woman in a blue shirt and pink checkered trousers holding a toddler in a pink art studio.",
+    "caption": "Hormonal Hasina poster.",
+    "step": 1
+  },
+  {
+    "file": "reel-0842-50.mp4",
+    "type": "video",
+    "title": "Street interview 01",
+    "alt": "A young woman with long dark wavy hair, a rust-coloured top and wide-leg jeans stands smiling with her hands behind her back on a paved campus plaza.",
+    "caption": "Short street interview used to listen to the target audience in their own words.",
+    "step": 1,
+    "gridLast": true
+  },
+  {
+    "file": "reel-0842-55.mp4",
+    "type": "video",
+    "title": "Street interview 02",
+    "alt": "A smiling young woman with curly bangs and a grey Nirvana t-shirt stands with her hands behind her back in front of a modern building with yellow columns.",
+    "caption": "Second voice from the same street interview series.",
+    "step": 1,
+    "gridLast": true
+  },
+  {
+    "file": "reel-0842-57.mp4",
+    "type": "video",
+    "title": "Street interview 03",
+    "alt": "A young woman wearing round glasses, a black lace top and a black and white checked shirt looks to the side on a sunlit plaza.",
+    "caption": "Third voice from the street interview series.",
+    "step": 1,
+    "research": false,
+    "gridLast": true
+  },
+  {
+    "file": "awareness-post.jpg",
+    "type": "image",
+    "title": "Awareness post",
+    "alt": "A woman in blue sports underwear and a black arm sleeve does a handstand split against a coral wall, with white arrows pointing to labels: Fresh through reps, Quick drying, Heavy-flow protection that moves with you, and Complete the set.",
+    "caption": "Awareness post.",
+    "step": 2
+  },
+  {
+    "file": "how-does-it-work.jpg",
+    "type": "image",
+    "title": "How does it work?",
+    "alt": "A cream graphic titled How does it work? showing blue period underwear. One pair is opened out to show the black absorbent layer with a dropper, the other is held up whole, with blue text explaining the triple layer technology.",
+    "caption": "How does it work explainer.",
+    "step": 2
+  },
+  {
+    "file": "mahina-feed.jpg",
+    "type": "image",
+    "title": "Mahina Instagram feed",
+    "alt": "Screenshot of Mahina's Instagram grid: a woman asking how to wash period underwear, a creator in pink period underwear, a DeepSleep Period Panty product shot on an orange background, a history post about Trota of Salerno, horror-themed posts reading It Returns and Leaks Follow, and a post about period products carried in plain sight.",
+    "caption": "Mahina Instagram feed.",
+    "step": 3,
+    "researchOnly": true,
+    "wide": true
+  },
+  {
+    "file": "healthfab-feed.jpg",
+    "type": "image",
+    "title": "HealthFab Instagram feed",
+    "alt": "Screenshot of HealthFab's Instagram grid: collage and creator videos, Sleep Shorts ads on navy backgrounds reading Leaks don't belong in your bed, a Stop re-washing, start wiping wipes ad, and posts titled Men vs Tampons and PCOS is now PMOS.",
+    "caption": "HealthFab Instagram feed.",
+    "step": 3,
+    "researchOnly": true,
+    "wide": true
+  },
+  {
+    "file": "nua-feed.jpg",
+    "type": "image",
+    "title": "Nua Instagram feed",
+    "alt": "Screenshot of Nua's Instagram grid: three video stills reading Having a day when you can't catch a break, an illustrated myths and facts post for teens, an intimate wash product ad, a post about working out on your period, a post about wet, icky discharge stains, and a group photo of women holding Nua shopping bags.",
+    "caption": "Nua Instagram feed.",
+    "step": 3,
+    "researchOnly": true,
+    "wide": true
+  },
+  {
+    "file": "ayni-v10.mp4",
+    "type": "video",
+    "title": "But why fear when Ayni is here",
+    "alt": "A retro handheld game console screen reads BUT WHY FEAR WHEN AYNI IS HERE above a floating blue pixel-art underwear with a yellow flower mark.",
+    "caption": "Playful retro-game animation that turns period worry into a light moment.",
+    "step": 2,
+    "tall": true
+  },
+  {
+    "file": "reel-1550-21.mp4",
+    "type": "video",
+    "title": "Change of plans?",
+    "alt": "A text message thread reads yo, period's here, change of plans? and a reply being typed, nah just a change of, above an emoji keyboard that ends with a blue underwear emoji.",
+    "caption": "Relatable chat-style post: a period means a change of underwear, not a change of plans.",
+    "step": 2,
+    "tall": true
+  },
+  {
+    "file": "nokia-phone.jpg",
+    "type": "image",
+    "title": "The 90s called",
+    "alt": "A silver Nokia-style phone against a soft pink, blue and yellow gradient. Its screen reads Women should smell floral 24/7, head-to-toe. Text above reads The 90s called... they want their outdated body care advice back.",
+    "caption": "Y2K nostalgia post.",
+    "step": 5
+  },
+  {
+    "file": "burn-book.jpg",
+    "type": "image",
+    "title": "Burn book",
+    "alt": "Hands holding a blue Burn Book with a red lips sticker, on a pale pink lip-print background. Text above reads You let it out, honey. Text below reads Write it in the book.",
+    "caption": "Y2K nostalgia post.",
+    "step": 5
+  }
+]

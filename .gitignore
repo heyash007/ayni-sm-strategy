@@ -1,0 +1,4 @@
+# original, full-size source files stay on this computer; the site uses the optimised copies in assets/
+/*.png
+/*.mp4
+.DS_Store
